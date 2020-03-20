@@ -12,8 +12,8 @@ I did an arduino project on bluetooth controlled vehicle
   
 Current POR's :
 ---------------
-coordinator in E-Sports club
-volunteer in Keep it Flowing campaign
+coordinator in E-Sports club.
+volunteer in Keep it Flowing campaign.
   
 Why i want to work in the team :
 --------------------------------
@@ -23,10 +23,10 @@ Relevant Courses :
 ------------------
 Online
 ------
-Machine Learning by Andrew N.G in Couseera
-Applied Machine Learning in Python by Illinois university in Coursera
-Deep Learning by Andrew N.G in Coursera
-Convolution Neural Networks (CS231n) by Stanford University
+Machine Learning by Andrew N.G in Couseera.
+Applied Machine Learning in Python by Illinois university in Coursera.
+Deep Learning by Andrew N.G in Coursera.
+Convolution Neural Networks (CS231n) by Stanford University.
   
 
   
