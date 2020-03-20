@@ -1,0 +1,14 @@
+# create a new diretory for our workspace
+mkdir -p ~/catkin_ws/src
+
+# change the directory to our current workspace
+cd ~/catkin_ws
+
+# use catkin_make command to create our catkin workspace
+catkin_make
+
+Note : if you are using python3 the first catkin_make command should be like this
+catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
+
+# source your .*sh file before proceeding further
+source devel/setup.bash
