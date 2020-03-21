@@ -28,7 +28,12 @@ Applied Machine Learning in Python by Illinois university in Coursera.
 Deep Learning by Andrew N.G in Coursera.
 Convolution Neural Networks (CS231n) by Stanford University.
   
+Resources :
+-----------
 
-  
+1) http://wiki.ros.org/ROS/Tutorials 
+2) https://colab.research.google.com/drive/1kogw56WAaNb86oWt1Bk8axNtCp1t79wf#forceEdit=true&sandboxMode=true&scrollTo=YBaILxtBPyBu
+3) http://wiki.ros.org/turtlesim/Tutorials/Rotating%20Left%20and%20Right
+4) https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
   
   
