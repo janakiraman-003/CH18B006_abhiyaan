@@ -7,7 +7,7 @@ import numpy as np
 # read the image
 img = cv2.imread('line_image.jpeg')
 
-# conver the image into grayscale
+# convert the image into grayscale
 gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 
 # detect the edges using canny detection
